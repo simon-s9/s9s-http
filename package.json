@@ -1,6 +1,6 @@
 {
   "name": "s9s-http",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "s9s http wrapper",
   "main": "http.js",
   "scripts": {
