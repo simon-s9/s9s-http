@@ -1,5 +1,6 @@
 # s9s-http
 
+[![Build Status](https://travis-ci.org/simon-s9/s9s-http.svg?branch=master)](https://travis-ci.org/simon-s9/s9s-http)
 [![npm](https://img.shields.io/npm/v/s9s-http.svg)](https://www.npmjs.com/package/s9s-http)
 
 ## Installation
