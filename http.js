@@ -5,7 +5,9 @@ const protocols = {
 };
 const promise = require('promise');
 
-module.exports = request;
+module.exports = {
+    request: request
+};
 
 /**
  * @name request
